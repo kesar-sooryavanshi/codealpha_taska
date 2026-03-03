@@ -58,4 +58,5 @@ with open("portfolio_summary.txt", "w") as file:
     file.write("--------------------------\n")
     file.write(f"Total Investment Value: ${total_investment}")
 
+
 print("\n✅ Portfolio saved to 'portfolio_summary.txt'")
